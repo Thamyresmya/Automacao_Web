@@ -3,7 +3,7 @@
 
 # Automação Web e Busca de Informações com Python
 
-Projeto desenvolvido em Python, junto com a galera do HashTag, para automatizar a cotação dos preços dos produtos de um banco de dados. O código faz a importação da planilha em excel, realizado os tratamento em caracteres especiais, abre o navegador entra no site e para cada produto atualiza o banco de dados e preenche a coluna informando se é viavel ou não comprar o produto.
+Projeto desenvolvido em Python, junto com a galera do HashTag, para automatizar a cotação dos preços dos produtos de um banco de dados. O código faz a importação da planilha em Excel, realizado os tratamentos dos caracteres especiais, abre o navegador, entra no site do Melhor Câmbio e para cada produto da planilha preenche a coluna de "Preço atual", além de informar se é viável ou não comprar o produto.
 
 
 <!-- Inserir imagem com a #vitrinedev ao final do link -->
